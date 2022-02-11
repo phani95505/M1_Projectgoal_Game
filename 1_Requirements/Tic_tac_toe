@@ -14,16 +14,21 @@ Swot Analysis: Strengths
  Weakness
  It do not include attractive ui has basic grid lines
 
-  __OPPORTUNITIES__:
+  *OPPORTUNITIES*:
+  
  In the market it has a huge following in youth and children
  Whenever there is a free time of 5 to 10 min they can relax by
- playing the game .
+ playing the game 
+ .
  **THREATS**:
+ 
  AS now a days the children are playing large game like pubg .so the demand will
  Decrease but we will add lot of features in this game
+ 
  High level Requirements:
  1)We can develop the system with low cost
  2)max high value
  3) we can design system with efficient manner
+ 
  Low level requirements:
  1)uses switch cases and easy to build
