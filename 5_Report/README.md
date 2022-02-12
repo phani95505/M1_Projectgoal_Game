@@ -14,7 +14,7 @@ Swot Analysis: Strengths
  Weakness
  It do not include attractive ui has basic grid lines
 
-  # OPPORTUNITIES #:
+  OPPORTUNITIES :
   
  In the market it has a huge following in youth and children
  Whenever there is a free time of 5 to 10 min they can relax by
