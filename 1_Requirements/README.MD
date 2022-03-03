@@ -24,3 +24,5 @@ Requirements
  3.playerMove
 
  4. computer move
+
+# SWOT ANALYSIS
