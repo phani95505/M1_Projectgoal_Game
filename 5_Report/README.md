@@ -1,7 +1,9 @@
-Introduction
+# Introduction
 The tic-tac-toe game is played on a 3*3 grid lines; The game is played by two players or by player and computer using AI, who take turns. The first player moves with a circle, the second with a cross. The player who draws a horizontal, vertical or diagonal order of three marks wins. In my program I should draw a game board, ask the user for the coordinates of the next mark, change players after each successful move, and announce the winner.
-Reference:
+
+# Reference:
 http://www.cprogrammingnotes.com/question/tic-tac-toe-game. html
+
 In this game i have used conditions statements to check which player is starting the game and followed by switch case by marking on grid line by using from 1 to 9 as it is 3*3 grid
 Or else it will show the invalid move i have used the
 Swot Analysis: Strengths
